@@ -8,8 +8,8 @@
 
 ##### The activities were:
 
-#####    1 - Standing
-#####    2 - Sitting
+#####  - 1 - Standing
+#####  - 2 - Sitting
 #####    3 - Laying
 #####    4 - Walking
 #####    5 - Walking Downstairs
