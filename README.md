@@ -1,15 +1,12 @@
-#### Getting-and-Cleaning-Data Course Project 
+#### Getting and Cleaning Data - Course Project 
 
 ##### The purpose of this project was to demonstrate my ability to collect, work with, and clean a data set.
 
-##### The data for this project used the UCI HAR Dataset. 
-
-##### The original data can be found at: 
+##### The data for this project used the UCI HAR Dataset. The Original data can be found at:
 ##### https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
-##### The dataset included the following files (other files were included in the dataset but these were
-##### the only ones of interest for this project):
+##### The dataset included the following files (other files were included in the dataset but these were the only ones of interest for this project):
 
 ##### * README.txt
 ##### * features_info.txt - info about the variables
