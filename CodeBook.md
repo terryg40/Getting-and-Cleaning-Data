@@ -46,22 +46,22 @@
 
 ##### Not perfect, but a little more readable.
 
-##### OK, onto a brief explanation of the R script for the project. 
+#### OK, onto a brief explanation of the R script for the project. 
 
-##### 1. Merge the training and test sets to create one data set.
+#### 1. Merge the training and test sets to create one data set.
 ##### -- I read the data tables, using subjectTest, subjectTrain, xTest, xTrain, yTest, yTrain as my data set names. I combined the subject, x, and y into variables called  
 ##### -- subjectData, xData, and yData using rbind. I then merged these into one data set called mergedDataSet using cbind.
 
-##### 2. Extracts measurements on the mean and standard deviation for each measurement.
+#### 2. Extracts measurements on the mean and standard deviation for each measurement.
 ##### -- My variable for this is called meanStd.
 
-##### 3. Uses descriptive activity names to name the activities in the data set.
+#### 3. Uses descriptive activity names to name the activities in the data set.
 ##### -- Just made sure the labels in the table were the activity names, rather than a number.
 
-##### 4. Appropriately labels the data set with descriptive variable names.
+#### 4. Appropriately labels the data set with descriptive variable names.
 ##### -- This is where the transformation of the abbreviations was made, as noted above.
 
-##### 5. Lastly, from the data set in 4, creates a second, independent tidy data set with the average of each variable
-##### -- for each activity and each subject.  The last line exports this to a file called tidydata.txt.
+#### 5. Lastly, from the data set in 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+##### -- The last line exports this to a file called tidydata.txt.
 
 
