@@ -8,46 +8,46 @@
 
 ##### The activities were:
 
-##### 1 - Standing
-##### 2 - Sitting
-##### 3 - Laying
-##### 4 - Walking
-##### 5 - Walking Downstairs
-##### 6 - Walking Upstairs
+#####    1 - Standing
+#####    2 - Sitting
+#####    3 - Laying
+#####    4 - Walking
+#####    5 - Walking Downstairs
+#####    6 - Walking Upstairs
 
 ##### The sensor signals (accelerometer and gyroscope) on the smartphone allowed an array of data (561-feature 
 ##### vector with time and frequency domain variables).  For the purposes of this project, only the following
 ##### were of interest, as they had Means and Standard Deviations:
 
-##### tBodyAcc
-##### tGravityAcc
-##### tBodyAccJerk
-##### tBodyGyro
-##### tBodyGyroJerk
-##### tBodyAccMag
-##### tGravityAccMag
-##### tBodyAccJerkMag
-##### tBodyGyroMag
-##### tBodyGyroJerkMag
-##### fBodyAcc
-##### fBodyAccJerk
-##### fBodyGyro
-##### fBodyAccMag
-##### fBodyBodyAccJerkMag
-##### fBodyBodyGyroMag
-##### fBodyBodyGyroJerkMag
+#####    tBodyAcc
+#####    tGravityAcc
+#####    tBodyAccJerk
+#####    tBodyGyro
+#####    tBodyGyroJerk
+#####    tBodyAccMag
+#####    tGravityAccMag
+#####    tBodyAccJerkMag
+#####    tBodyGyroMag
+#####    tBodyGyroJerkMag
+#####    fBodyAcc
+#####    fBodyAccJerk
+#####    fBodyGyro
+#####    fBodyAccMag
+#####    fBodyBodyAccJerkMag
+#####    fBodyBodyGyroMag
+#####    fBodyBodyGyroJerkMag
 
 ##### As part of the cleaning section of the project, the labels, including the previous ones, were cleaned up a
 ##### bit.  Such that:
 
-##### t - Time
-##### Acc - Accelerometer
-##### -mean - Mean
-##### -std - StandardDeviation
-##### Gyro - Gyroscope
-##### Mag - Magnitude
-##### f - Frequency
-##### BodyBody - Body
+#####    t - Time
+#####    Acc - Accelerometer
+#####    -mean - Mean
+#####    -std - StandardDeviation
+#####    Gyro - Gyroscope
+#####    Mag - Magnitude
+#####    f - Frequency
+#####    BodyBody - Body
 
 ##### Not perfect, but a little more readable.
 
@@ -65,7 +65,7 @@
 ##### -- Just made sure the labels in the table were the activity names, rather than a number.
 
 ##### 4. Appropriately labels the data set with descriptive variable names.
-# -- This is where the transformation of the abbreviations was made, as noted above.
+##### -- This is where the transformation of the abbreviations was made, as noted above.
 
 ##### 5. Lastly, from the data set in 4, creates a second, independent tidy data set with the average of each variable
 ##### -- for each activity and each subject.  The last line exports this to a file called tidydata.txt.
