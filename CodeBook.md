@@ -1,7 +1,7 @@
 #### Getting and Cleaning Data - Course Project
 
-##### The researchers collecting the data had 30 volunteers wear a Samsung Galaxy S II smartphone on their waist while performing one of six activities.  The experiments were   
-##### video-recorded and the data labeled manually. The volunteers were randomly assigned to a test (30%) or a training (70%) group.
+##### The researchers collecting the data had 30 volunteers wear a Samsung Galaxy S II smartphone on their waist while performing one of six activities.  The   
+##### experiments were video-recorded and the data labeled manually. The volunteers were randomly assigned to a test (30%) or a training (70%) group.
 
 ##### The activities were:
 
@@ -12,8 +12,8 @@
 #####    5 - Walking Downstairs
 #####    6 - Walking Upstairs
 
-##### The sensor signals (accelerometer and gyroscope) on the smartphone allowed an array of data (561-feature vetor with time and frequency domain variable). For the purpose
-##### of this project, only the following were of interest, as they had Means and Standard Deviations:
+##### The sensor signals (accelerometer and gyroscope) on the smartphone allowed an array of data (561-feature vetor with time and frequency domain variable). For 
+##### the purpose of this project, only the following were of interest, as they had Means and Standard Deviations:
 
 #####    tBodyAcc
 #####    tGravityAcc
